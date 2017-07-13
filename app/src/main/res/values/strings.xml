@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P08 - Google Map</string>
+    <string-array name="branches">
+        <item>Click to select branches</item>
+        <item>North - HQ</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
